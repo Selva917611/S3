@@ -1,1 +1,1 @@
-Hosting a website in AWS S3.
+Host a website in AWS S3.
